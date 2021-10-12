@@ -1,0 +1,3 @@
+You are given a 2-dimensional array/list having N rows and M columns, which is filled with ones(1) and zeroes(0). 1 signifies land, and 0 signifies water.
+A cell is said to be connected to another cell, if one cell lies immediately next to the other cell, in any of the eight directions (two vertical, two horizontal, and four diagonals).
+A group of connected cells having value 1 is called an island. Your task is to find the number of such islands present in the matrix.
